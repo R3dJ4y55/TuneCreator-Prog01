@@ -45,9 +45,9 @@ public class TuneCreator
         sickBeat.addNote("E", 1);
         sickBeat.addNote("E", 1);
         sickBeat.addNote("Bb", 12);
-        sickBeat.addNote("C", 1);
-        sickBeat.addNote("B", 1);
-        sickBeat.addNote("A", 1);
+        sickBeat.addNote("C", 20);
+        sickBeat.addNote("B", 20);
+        sickBeat.addNote("A", 20);
         
         //Play the sickBeat && Set instrument
         sickBeat.setInstrument(9);
